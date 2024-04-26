@@ -1,3 +1,5 @@
+-keeping all of the original documentation so that It is there for reference if I or anyone else that stumbles upon this needs it as it covers everything needed to set up neovim and set up the kickstart config that I am tweaking/expanding on
+
 # kickstart.nvim
 
 ## Introduction
